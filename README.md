@@ -1,4 +1,4 @@
-# SOA Online Store API
+# API-SOA
 
 Simple service-oriented architecture project using Node.js and Express.
 
