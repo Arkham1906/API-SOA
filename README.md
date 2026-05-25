@@ -16,6 +16,11 @@ Simple service-oriented architecture project using Node.js and Express.
 - JSON
 - pnpm
 
+## Versions
+
+-node 22.22.3
+-pnpm 11.3.0
+
 ## Run project
 
 ```bash
